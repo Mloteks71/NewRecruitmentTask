@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Infrastructure\\NewRecruitmentTask.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Application\\TedeeRecruitmentTask.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Application\\TedeeRecruitmentTask.Application.csproj",
+        "projectName": "TedeeRecruitmentTask.Application",
+        "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Application\\TedeeRecruitmentTask.Application.csproj",
+        "packagesPath": "C:\\Users\\MarcinKocinski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MarcinKocinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\NewRecruitmentTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\NewRecruitmentTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\NewRecruitmentTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\NewRecruitmentTask.Domain.csproj",
+        "projectName": "NewRecruitmentTask.Domain",
+        "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\NewRecruitmentTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\MarcinKocinski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MarcinKocinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\TedeeRecruitmentTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\TedeeRecruitmentTask.Domain.csproj",
+        "projectName": "TedeeRecruitmentTask.Domain",
+        "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\TedeeRecruitmentTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\MarcinKocinski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MarcinKocinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Infrastructure\\NewRecruitmentTask.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Infrastructure\\NewRecruitmentTask.Infrastructure.csproj",
+        "projectName": "NewRecruitmentTask.Infrastructure",
+        "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Infrastructure\\NewRecruitmentTask.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MarcinKocinski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MarcinKocinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Application\\TedeeRecruitmentTask.Application.csproj": {
+                "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Application\\TedeeRecruitmentTask.Application.csproj"
+              },
+              "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\TedeeRecruitmentTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\MarcinKocinski\\source\\repos\\NewRecruitmentTask\\NewRecruitmentTask.Domain\\TedeeRecruitmentTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

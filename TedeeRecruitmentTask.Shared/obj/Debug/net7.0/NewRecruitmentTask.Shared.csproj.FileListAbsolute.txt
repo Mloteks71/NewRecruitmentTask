@@ -1,0 +1,12 @@
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\bin\Debug\net7.0\NewRecruitmentTask.Shared.deps.json
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\bin\Debug\net7.0\NewRecruitmentTask.Shared.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\bin\Debug\net7.0\NewRecruitmentTask.Shared.pdb
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.csproj.AssemblyReference.cache
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.AssemblyInfoInputs.cache
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.AssemblyInfo.cs
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\refint\NewRecruitmentTask.Shared.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\NewRecruitmentTask.Shared.pdb
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Shared\obj\Debug\net7.0\ref\NewRecruitmentTask.Shared.dll

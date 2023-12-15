@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TedeeRecruitmentTask.Application", "TedeeRecruitmentTask.Application\TedeeRecruitmentTask.Application.csproj", "{2DC7A7B2-659A-4062-B821-7DFEA080F234}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TedeeRecruitmentTask.Api", "TedeeRecruitmentTask\TedeeRecruitmentTask.Api.csproj", "{FA1B971C-5097-497C-AB6C-CB00281EF9D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TedeeRecruitmentTask.Domain", "TedeeRecruitmentTask.Domain\TedeeRecruitmentTask.Domain.csproj", "{2E0C4198-F85A-4705-A257-E781C228412E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TedeeRecruitmentTask.Infrastructure", "TedeeRecruitmentTask.Infrastructure\TedeeRecruitmentTask.Infrastructure.csproj", "{B79A89CA-9DA2-41C6-B685-55EA77D00C1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewRecruitmentTask.Shared", "TedeeRecruitmentTask.Shared\NewRecruitmentTask.Shared.csproj", "{27017C1A-F82C-4084-8E87-726B8FC9F1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC7A7B2-659A-4062-B821-7DFEA080F234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC7A7B2-659A-4062-B821-7DFEA080F234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC7A7B2-659A-4062-B821-7DFEA080F234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC7A7B2-659A-4062-B821-7DFEA080F234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1B971C-5097-497C-AB6C-CB00281EF9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1B971C-5097-497C-AB6C-CB00281EF9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1B971C-5097-497C-AB6C-CB00281EF9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1B971C-5097-497C-AB6C-CB00281EF9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0C4198-F85A-4705-A257-E781C228412E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0C4198-F85A-4705-A257-E781C228412E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0C4198-F85A-4705-A257-E781C228412E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0C4198-F85A-4705-A257-E781C228412E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79A89CA-9DA2-41C6-B685-55EA77D00C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79A89CA-9DA2-41C6-B685-55EA77D00C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79A89CA-9DA2-41C6-B685-55EA77D00C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79A89CA-9DA2-41C6-B685-55EA77D00C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27017C1A-F82C-4084-8E87-726B8FC9F1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27017C1A-F82C-4084-8E87-726B8FC9F1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27017C1A-F82C-4084-8E87-726B8FC9F1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27017C1A-F82C-4084-8E87-726B8FC9F1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B406EFC-FBDB-4014-ADCE-71190FA8F6A6}
+	EndGlobalSection
+EndGlobal

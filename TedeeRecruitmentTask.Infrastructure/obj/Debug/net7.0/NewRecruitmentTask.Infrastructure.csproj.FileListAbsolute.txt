@@ -1,0 +1,17 @@
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Infrastructure.deps.json
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Infrastructure.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Infrastructure.pdb
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Application.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Domain.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Application.pdb
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\bin\Debug\net7.0\NewRecruitmentTask.Domain.pdb
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.AssemblyInfo.cs
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.csproj.CopyComplete
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\refint\NewRecruitmentTask.Infrastructure.dll
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\NewRecruitmentTask.Infrastructure.pdb
+C:\Users\MarcinKocinski\source\repos\NewRecruitmentTask\NewRecruitmentTask.Infrastructure\obj\Debug\net7.0\ref\NewRecruitmentTask.Infrastructure.dll
